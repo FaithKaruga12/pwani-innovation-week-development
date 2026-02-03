@@ -32,7 +32,7 @@ const EventDetails = () => {
       ]
     },
     2022: {
-      description: "Pwani Innovation Week 2022 media launch of the 3rd Pwani Innovation week 2022. The launch will be officiated by ; Kenya National Chamber of Commerce, Department of Tade, Mombasa County and Swahilipot hub",
+      description: "Pwani Innovation Week 2022 media launch of the 3rd Pwani Innovation Week 2022. The launch will be officiated by: Kenya National Chamber of Commerce, Department of Trade, Mombasa County, and Swahilipot hub."
       images: [
         "/images/2022/event1.jpg",
         "/images/2022/event2.jpg",
